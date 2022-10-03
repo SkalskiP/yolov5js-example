@@ -10,6 +10,10 @@
 
 This repository is end to end example of [yolov5js](https://github.com/SkalskiP/yolov5js) deployment in React app.
 
+
+https://user-images.githubusercontent.com/26109316/193595340-59453b86-e77b-4b0d-9a63-d2ea09122808.mov
+
+
 ## <div align="center">Install</div>
 
 ```bash
