@@ -1,3 +1,5 @@
+[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/s/github/SkalskiP/yolov5js-example)
+
 <h1 align="center">yolov5.js-example</h1>
 
 <p align="center"> 
